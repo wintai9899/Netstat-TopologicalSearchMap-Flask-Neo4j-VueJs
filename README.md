@@ -4,6 +4,12 @@ Frontend: Vue.js, Antv/G6, JavaScript
 Backend: Python Flask
 Graph Database: Neo4j.
 Set up relational data models from data retrieved using “netstat” command in bash. 
+
+## Environment Setup 
+* Neo4j 
+* Flask Virtual Env 
+* Vue.js 
+
 ## Project setup
 ```
 npm install
