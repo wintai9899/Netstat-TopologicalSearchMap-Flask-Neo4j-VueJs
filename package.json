@@ -1,0 +1,57 @@
+{
+  "name": "netmap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@antv/g6": "^3.6.0",
+    "@supermap/vue-iclient-mapboxgl": "^10.1.0-beta",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "core-js": "^3.6.5",
+    "cytoscape": "^3.15.1",
+    "echarts": "^4.8.0",
+    "element-ui": "^2.13.2",
+    "html2canvas": "^1.0.0-rc.6",
+    "insert-css": "^2.0.0",
+    "less-loader": "^6.2.0",
+    "view-design": "^4.3.2",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.0",
+    "vue-cytoscape": "^1.0.8",
+    "vue-router": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11",
+    "vue-eslint-parser": "^7.1.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
