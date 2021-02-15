@@ -20,4 +20,4 @@ npm run build
 npm run lint
 ```
 
-![Alt text](/../main/screenshot.png?raw=true)
+![Alt text](/main/screenshot.png?raw=true)
