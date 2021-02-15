@@ -1,9 +1,9 @@
 # netmap
-•	A web application that allows the user to visualize the port and IP connections/status between machines in a network domain.
-•	Frontend: Vue.js, Antv/G6, JavaScript
-•	Backend: Python Flask
-•	Graph Database: Neo4j.
-•	Set up relational data models from data retrieved using “netstat” command in bash. 
+A web application that allows the user to visualize the port and IP connections/status between machines in a network domain.
+Frontend: Vue.js, Antv/G6, JavaScript
+Backend: Python Flask
+Graph Database: Neo4j.
+Set up relational data models from data retrieved using “netstat” command in bash. 
 ## Project setup
 ```
 npm install
